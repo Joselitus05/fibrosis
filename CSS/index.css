@@ -1,0 +1,19 @@
+*{
+
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+header h1{
+    
+}
+
+#nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
